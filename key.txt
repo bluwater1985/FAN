@@ -1,0 +1,6 @@
+#include "mcu.h"
+
+
+#define Key_On_off        PDR1_P14
+#define Key_Swing         PDR1_P17
+#define Key_Timer         PDR0_P00     
